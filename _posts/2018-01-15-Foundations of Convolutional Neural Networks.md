@@ -1,17 +1,12 @@
 ---
 layout: post
-title: "WEEK1 - Foundations of Convolutional Neural Networks"
+title: "Foundations of Convolutional Neural Networks"
 subtitle: "CNN의 기초"
 date: 2018-01-15 19:40:00
 categories: dlcv
 author: jjkim
 ---
 
-# WEEK1 - Foundations of Convolutional Neural Networks
-
-
-
-<br></br>
 
 본 문서는 [Coursera - Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)의 1주차 강의 내용에 대한 정리 / 보충 자료다.
 
