@@ -2,28 +2,28 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               김통계의 BLOG
+title:               YBIGTA
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://statkim7578.github.io
+url:                 https://ybigta-science.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             통계, 머신러닝, R, PYTHON
+tagline:             딥러닝, 머신러닝, 통계학 등 전반적인 데이터 사이언스를 공부하고 있습니다.
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  통계학을 공부중인 통계학도입니다.
+  연세대학교 빅데이터 학술동아리 YBIGTA의 데이터 사이언스 팀입니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              Chul Kim
-  email:             statkim7578@yonsei.ac.kr
+  name:              YBIGTA
+  email:             yonseibigdata@gmail.com
 
 # Fallback image and color
 image:               /assets/img/nap.jpg
@@ -47,10 +47,10 @@ google_fonts:        Lato
 # google_analytics:    UA-92346434-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    김통계
+disqus_shortname:    ybigta
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2018. by 김통계'
+copyright:           '&copy; 2018. by ybigta'
 
 # Format of the permalinks
 permalink:           pretty
