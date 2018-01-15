@@ -4,7 +4,6 @@ title: "WEEK1 - Foundations of Convolutional Neural Networks"
 subtitle: "CNN의 기초"
 date: 2018-01-15 19:40:00
 categories: dlcv
-tags: dlcv
 author: jjkim
 ---
 
