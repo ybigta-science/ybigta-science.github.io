@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 author:
-  name: Chul Kim
-  email: statkim7578@yonsei.ac.kr
+  name: YBIGTA
+  email: yonseibigdata@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    통계학을 공부중인 통계학도 입니다.
+    연세대학교 빅데이터 학술동아리 YBIGTA의 데이터 사이언스팀입니다.
 
   # This photo will be used in the about section
   picture:
@@ -22,11 +22,11 @@ author:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook: statkim7578
+    facebook: yonseibigdata
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
-    youtube:  "김철"
+    # youtube:  "김철"
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
@@ -46,7 +46,7 @@ author:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:            statkim7578
+    github:            YBIGTA
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -57,22 +57,18 @@ author:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:             mailto:statkim7578@yonsei.ac.kr
+    email:             mailto:yonseibigdata@gmail.com
     # rss:             https://statkim7578.github.io/feed.xml
 
 # Another author
 mdo:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              JiJoong Kim
+  email:             jj.kim@yonsei.ac.kr
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
+    YBIGTA 10기 데이터 사이언스팀 김지중입니다.
+  picture:
+    src:             /assets/img/jjkim.jpg
   social:
-    github:          <username>
-    twitter:         <username>
-  image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
+    github:          Jooong
+    email:           mailto:jj.kim@yonsei.ac.kr
   color: '#268bd2'
