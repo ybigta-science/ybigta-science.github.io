@@ -61,7 +61,7 @@ author:
     # rss:             https://statkim7578.github.io/feed.xml
 
 # Another author
-mdo:
+author:
   name:              JiJoong Kim
   email:             jj.kim@yonsei.ac.kr
   about:             |
