@@ -58,11 +58,7 @@ Vertical Edge를 탐지할 수 있다면, Horizontal Edge도 탐지할 수 있�
 
 다음으로 나오는 개념은 Padding이다. 위와 같이 한 픽셀씩 필터를 이동시킬 경우 단점이 있다.
 
-1. 이미지(feature map)의 사이즈가 줄어든다. 뉴럴 네트워크를 구성할 때, 레이어를 많이 쌓을 수가 없다.
-
-   위 예시에서 6x6의 이미지를 3x3의 필터로 단순 convolution할 경우 4x4의 feature map이 생성되었다.
-
-   즉, n_out = n_in - filter_size + 1 의 형태다. filter_size가 1보다 클 경우 당연히 이미지가 작아진다.
+1. 이미지(feature map)의 사이즈가 줄어든다. 뉴럴 네트워크를 구성할 때, 레이어를 많이 쌓을 수가 없다. 위 예시에서 6x6의 이미지를 3x3의 필터로 단순 convolution할 경우 4x4의 feature map이 생성되었다. 즉, n_out = n_in - filter_size + 1 의 형태다. filter_size가 1보다 클 경우 당연히 이미지가 작아진다.
 
    ​
 
