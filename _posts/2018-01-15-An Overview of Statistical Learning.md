@@ -2,7 +2,7 @@
 layout: post
 title: "An Overview of Statistical Learning"
 subtitle: "ISL ch.02"
-date: 2018-01-15 20:00:
+date: 2018-01-15 20:00:00
 categories: isl
 ---
 
