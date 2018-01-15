@@ -4,6 +4,7 @@ title: "An Overview of Statistical Learning"
 subtitle: "ISL ch.02"
 date: 2018-01-15 20:00:00
 categories: isl
+author: ybigta
 ---
 
 첫시간이니 만큼, 아주 기본적이고 개괄적인 내용들부터 시작합니다. 틀린 내용이 있다면 가차없이 처단바랍니다.
