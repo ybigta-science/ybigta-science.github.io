@@ -4,7 +4,7 @@ title: "Foundations of Convolutional Neural Networks"
 subtitle: "CNN의 기초"
 date: 2018-01-15 19:40:00
 categories: dlcv
-author: jjkim
+author: JiJoong Kim
 ---
 
 
