@@ -4,6 +4,7 @@ title: "Linear Regression"
 subtitle: "Linear Regression"
 date: 2018-01-22 19:40:00
 categories: isl
+mathjax: true
 ---
 
 ---

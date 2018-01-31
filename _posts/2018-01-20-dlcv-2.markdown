@@ -4,6 +4,7 @@ title: "Case Studies of Classical CNN Networks"
 subtitle: "Several models that showed good performances in ILSVRC"
 date: 2018-01-22 19:40:00
 categories: dlcv
+mathjax: true
 ---
 
 * 작성자: 9기 박성남
