@@ -1,7 +1,7 @@
 ---
 layout: list
-title: 딥러닝 기초
-slug: dl
+title: DLB
+slug: dlb
 menu: true
 submenu: false
 order: 2
